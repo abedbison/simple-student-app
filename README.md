@@ -1,2 +1,2 @@
 # simple-student-app
-a simple spring boot + embeded hsqldb + rest repositories hal browser
+a simple spring boot + mysql + rest repositories hal browser
